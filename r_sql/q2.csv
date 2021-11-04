@@ -1,0 +1,288 @@
+"City","total"
+"Chicago",2388365
+"Atlanta",1912370
+"Dallas-Fort Worth",1781833
+"Houston",1304407
+"Los Angeles",1279514
+"New York",1059087
+"Phoenix",1043119
+"Las Vegas",864082
+"Denver",854573
+"Detroit",845643
+"Minneapolis",843200
+"Newark",784193
+"San Francisco",717532
+"Boston",700229
+"Covington",689784
+"Philadelphia",683913
+"St Louis",680620
+"Charlotte",679985
+"Salt Lake City",642885
+"Seattle",617604
+"Orlando",592950
+"Baltimore",581244
+"Chantilly",507681
+"Arlington",495269
+"San Diego",480591
+"Pittsburgh",461535
+"Cleveland",418480
+"Tampa",408664
+"Miami",391070
+"Oakland",385300
+"San Jose",380826
+"Portland",375753
+"Kansas City",349873
+"Ft. Lauderdale",345593
+"Nashville",334781
+"Memphis",299690
+"New Orleans",293117
+"Raleigh",290110
+"Santa Ana",266873
+"Dallas",263915
+"Sacramento",262176
+"Austin",243756
+"Indianapolis",228661
+"San Antonio",226298
+"Columbus",223456
+"Albuquerque",217529
+"Ontario",209670
+"Windsor Locks",207037
+"Providence",169451
+"Reno",165166
+"Burbank",159726
+"Jacksonville",159599
+"Honolulu",150504
+"San Juan",150024
+"West Palm Beach",149168
+"Buffalo",128908
+"El Paso",128452
+"Louisville",128100
+"Oklahoma City",126524
+"Tulsa",125909
+"Anchorage",120969
+"Norfolk",118961
+"Birmingham",118228
+"Omaha",116947
+"Ft. Myers",112519
+"Manchester",110972
+"Tucson",110454
+"Milwaukee",110135
+"Rochester",102319
+"Albany",99733
+"Richmond",98710
+"Little Rock",94108
+"Greensboro",89371
+"Boise",82260
+"Spokane",79265
+"Charleston",73247
+"Grand Rapids",72742
+"Syracuse",72549
+"Dayton",72045
+"Jackson",70946
+"Colorado Springs",70057
+"Islip",65664
+"Kahului",58351
+"Greer",57264
+"Des Moines",54210
+"Knoxville",53776
+"Palm Springs",53032
+"Savannah",52862
+"Wichita",49996
+"Lubbock",49691
+"Fayetteville/Springdale/Rogers",47699
+"Fresno",47475
+"Santa Barbara",45853
+"Harrisburg",44957
+"Huntsville",44193
+"Midland",43518
+"Long Beach",42460
+"Columbia",42343
+"Madison",41701
+"Amarillo",41100
+"Shreveport",38947
+"White Plains",38856
+"Pensacola",38798
+"Corpus Christi",38188
+"Baton Rouge",37466
+"Cedar Rapids",34489
+"Lexington",34210
+"Burlington",33365
+"Fairbanks",31429
+"Sarasota",30368
+"Springfield",30328
+"Harlingen",30240
+"Myrtle Beach",28310
+"Allentown",28310
+"Lihue",28164
+"Green Bay",28019
+"Kailua/Kona",27094
+"Juneau",26778
+"Monterey",25930
+"Akron",25600
+"Billings",24068
+"Mobile",23656
+"Fort Wayne",23633
+"Valparaiso",23243
+"Lansing",22444
+"San Luis Obispo",21462
+"Sioux Falls",21429
+"Killeen",21055
+"Flint",20763
+"Bangor",20408
+"Gulfport-Biloxi",20148
+"Eugene",19868
+"McAllen",19499
+"Toledo",19472
+"Tallahassee",19174
+"Bozeman",19164
+"Saginaw",18985
+"Charlotte Amalie",18824
+"Evansville",18179
+"Fargo",18108
+"Missoula",17764
+"Medford",17667
+"Kalamazoo",17274
+"Great Falls",17131
+"Chattanooga",17044
+"Moline",16864
+"Wilmington",16709
+"Newport News",16395
+"Rapid City",16067
+"Asheville",16046
+"Roanoke",15975
+"Daytona Beach",15776
+"Tyler",15447
+"Peoria",15186
+"South Bend",15057
+"College Station",14856
+"Ketchikan",14706
+"Lafayette",14260
+"Waco",13980
+"Pasco",13950
+"Traverse City",13694
+"Kalispell",13172
+NA,13122
+"Abilene",13118
+"Monroe",13062
+"Melbourne",12834
+"Bristol",11832
+"Champaign/Urbana",11823
+"Arcata/Eureka",11722
+"Bakersfield",11556
+"Fort Smith",11511
+"Augusta",11496
+"Montgomery",11473
+"San Angelo",11400
+"Newburgh",11374
+"Grand Junction",11263
+"Lawton",10912
+"Bismarck",10846
+"Wichita Falls",10723
+"Wilkes-Barre/Scranton",10628
+"Hilo",10584
+"Laredo",10424
+"Lincoln",9999
+"Idaho Falls",9545
+"Panama City",9231
+"Bloomington",9146
+"Alexandria",8958
+"Hailey",8827
+"St George",8800
+"Casper",8796
+"Helena",8598
+"Duluth",8598
+"La Crosse",8556
+"Redmond",8180
+"Montrose",8133
+"Texarkana",7947
+"Sitka",7817
+"Charlottesville",7579
+"Elko",7414
+"Beaumont/Port Arthur",7262
+"Eagle",7207
+"Gainesville",7040
+"Key West",6948
+"Fayetteville",6747
+"Bethel",6644
+"Longview",6485
+"Minot",6453
+"Twin Falls",6397
+"Santa Maria",6287
+"Redding",6143
+"Nome",5986
+"Appleton",5978
+"Kotzebue",5883
+"Brownsville",5799
+"Dubuque",5777
+"Dothan",5636
+"Pocatello",5594
+"St. Petersburg",5221
+"Grand Forks",5135
+"Oxnard",5111
+"Erie",4915
+"Binghamton",4813
+"Columbus-Starkville-West Point",4604
+"Barrow",4452
+"Macon",4365
+"Lake Charles",4310
+"Hayden",4271
+"Cordova",4256
+"Yakutat",4170
+"Petersburg",4158
+"Wrangell",4155
+"Valdosta",4095
+"Kodiak",3987
+"Modesto",3984
+"Brunswick",3965
+"Butte",3956
+"Yuma",3853
+"Christiansted",3837
+"Meridian",3823
+"Huntington",3385
+"Chico",3186
+"Lynchburg",3117
+"Durango",3111
+"Crescent City",3104
+"Inyokern",3084
+"Florence",2897
+"Cedar City",2787
+"Cody",2748
+"Victoria",2369
+"Ithaca",2321
+"Elmira",2309
+"Deadhorse",2278
+"Atlantic City",2203
+"Imperial",2172
+"Aguadilla",2153
+"Unalaska",2147
+"King Salmon",1962
+"Visalia",1848
+"New Haven",1632
+"Dillingham",1554
+"Naples",1412
+"Gunnison",1278
+"Worcester",1119
+"Sioux City",946
+"West Yellowstone",808
+"Kinston",727
+"Lewisburg",722
+"Lewiston",668
+"Hickory",630
+"Tupelo",617
+"Nantucket",601
+"Gustavus",528
+"Lanai City",286
+"Kaunakakai",275
+"Adak",259
+"Ponce",198
+"Mosinee",175
+"Mayaguez",84
+"Pueblo",10
+"Ogden",6
+"Clarksburg",6
+"Farmington",5
+"Provo",3
+"Cheyenne",2
+"Scottsbluff",1
+"Roswell",1
+"Laramie",1
